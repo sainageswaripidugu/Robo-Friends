@@ -1,5 +1,5 @@
 # Robo-Friends
-It is a REACT based website, which used classes and hooks. It displays some random robot images which was taken by an API and arranged them in structured cards. It also contains Search button which is used to search the robot names. It contains scroll bar which is used to scroll robot cards without disturbing h1 and serch bars.
+It is a REACT based website, which used classes and hooks. It displays some random robot images which was taken by an API and arranged them in structured cards. It also contains Search button which is used to search the robot names. It contains scroll bar which is used to scroll robot cards without disturbing h1 and search bars.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
